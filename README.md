@@ -1,4 +1,4 @@
-# 🗣️ Type-N-Speak
+# 🗣️  Hari's Type-N-Speak
 
 A simple web-based Text-to-Speech (TTS) app that lets users type any text, adjust **rate** and **pitch**, and choose from available **voices** to hear it spoken aloud using the **Web Speech API**.
 
@@ -34,5 +34,4 @@ A simple web-based Text-to-Speech (TTS) app that lets users type any text, adjus
 
 ---
 
-## 📂 Project Structure
 
