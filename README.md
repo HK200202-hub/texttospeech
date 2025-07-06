@@ -5,12 +5,12 @@ A simple web-based Text-to-Speech (TTS) app that lets users type any text, adjus
 ---
 
 ## 🌐 Live Demo
-*Coming soon...*
+*Is Here Download And Run *
 
 ---
 
 ## 📸 Screenshot
-![Preview](img/speech.png) 
+
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/9df8dfec-02f3-4ce6-8837-0d21c57cd0be" />
 
 
